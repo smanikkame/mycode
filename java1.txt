@@ -1,4 +1,4 @@
-java program 
+#java program 
 
 class factorial{
 public static void main(String args[]){
@@ -10,4 +10,6 @@ fact = fact*i;
 }
 system.out.println("factorial of "+n+"is:"+fact);
 }
+
+no changes 
 
